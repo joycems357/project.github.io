@@ -1,0 +1,92 @@
+{
+  "Intermezzo": {
+    "name": "Intermezzo",
+    "publication_date": "2024-09-24",
+    "author": "Sally Rooney",
+    "category": "Book"
+  },
+  "1984": {
+    "name": "1984",
+    "publication_date": "1949-06-08",
+    "author": "George Orwell",
+    "category": "Book"
+  },
+  "Notes from Underground": {
+    "name": "Notes from Underground",
+    "publication_date": "1864-04-01",
+    "author": "Fyodor Dostoyevsky",
+    "category": "Book"
+  },
+  "Oppenheimer": {
+    "name": "Oppenheimer",
+    "publication_date": "2023-07-21",
+    "author": "Christopher Nolan",
+    "category": "Film"
+  },
+  "All About Love": {
+    "name": "All About Love",
+    "publication_date": "1999-12-22",
+    "author": "Bell Hooks",
+    "category": "Book"
+  },
+  "TIME": {
+    "name": "TIME",
+    "publication_date": "1923-03-03",
+    "author": "Henry Luce and Briton Hadden",
+    "category": "Magazine"
+  },
+  "National Geographic": {
+    "name": "National Geographic",
+    "publication_date": "1888-10-01",
+    "author": "Gardiner Greene Hubbard",
+    "category": "Magazine"
+  },
+  "Vogue": {
+    "name": "Vogue",
+    "publication_date": "1892-12-17",
+    "author": "Arthur Turnure",
+    "category": "Magazine"
+  },
+  "Rolling Stone": {
+    "name": "Rolling Stone",
+    "publication_date": "1967-11-09",
+    "author": "Jann Wenner & Ralph J. Gleason",
+    "category": "Magazine"
+  },
+  "Pride and Prejudice": {
+    "name": "Pride and Prejudice",
+    "publication_date": "1813-01-01",
+    "author": "Jane Austen",
+    "category": "Book"
+  },
+  "Inception": {
+    "name": "Inception",
+    "publication_date": "2010-07-16",
+    "author": "Christopher Nolan",
+    "category": "Film"
+  },
+  "Pulp Fiction": {
+    "name": "Pulp Fiction",
+    "publication_date": "1994-10-14",
+    "author": "Quentin Tarantino",
+    "category": "Film"
+  },
+  "Titanic": {
+    "name": "Titanic",
+    "publication_date": "1997-12-19",
+    "author": "James Cameron",
+    "category": "Film"
+  },
+  "La La Land": {
+    "name": "La La Land",
+    "publication_date": "2016-12-09",
+    "author": "Damien Chazelle",
+    "category": "Film"
+  },
+  "Nature": {
+    "name": "Nature",
+    "publication_date": "1869-11-04",
+    "author": "Norman Lockyer",
+    "category": "Magazine"
+  }
+}
